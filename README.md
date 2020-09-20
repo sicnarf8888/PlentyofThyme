@@ -1,7 +1,7 @@
 
 ## Welcome to PlentyofThyme
 
-((https://plenty-of-thyme.herokuapp.com/)
+https://plenty-of-thyme.herokuapp.com
 
 ## Project Description
 
