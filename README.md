@@ -1,7 +1,7 @@
 
 ## Welcome to PlentyofThyme
 
-<img width="200" align = "center" alt="PlentyofThyme" src="https://plenty-of-thyme.herokuapp.com/">
+<img width="200" align = "center" alt="PlentyofThyme" src="https://plenty-of-thyme.herokuapp.com//">
 
 ## Project Description
 
