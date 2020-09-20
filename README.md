@@ -1,7 +1,7 @@
 
 ## Welcome to PlentyofThyme
 
-[I'm an inline-style link](PlentyofThyme)((https://plenty-of-thyme.herokuapp.com/)
+((https://plenty-of-thyme.herokuapp.com/)
 
 ## Project Description
 
